@@ -1,0 +1,7 @@
+/your_project_folder
+├── sentinel.py
+├── requirements.txt
+└── /trusted_faces
+    ├── [Your Name].jpg
+    ├── Roommate_Name.png
+    └── Friend_Name.jpeg
